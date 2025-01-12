@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-whatsapp-analyzer/static/css/main.116f6508.css",
+    "main.js": "/react-whatsapp-analyzer/static/js/main.b96b2f19.js",
+    "static/js/453.c507044e.chunk.js": "/react-whatsapp-analyzer/static/js/453.c507044e.chunk.js",
+    "static/media/InterVariable-Italic.woff2": "/react-whatsapp-analyzer/static/media/InterVariable-Italic.e295f70fe3e2df296c7b.woff2",
+    "static/media/InterVariable.woff2": "/react-whatsapp-analyzer/static/media/InterVariable.a0e477f2f1f9d2376fde.woff2",
+    "static/media/primeicons.svg": "/react-whatsapp-analyzer/static/media/primeicons.6ed59f962963a4a73af2.svg",
+    "static/media/primeicons.eot": "/react-whatsapp-analyzer/static/media/primeicons.ff0c4cd79b2ffca2de54.eot",
+    "static/media/primeicons.woff": "/react-whatsapp-analyzer/static/media/primeicons.8931fda1930c3bd21e96.woff",
+    "static/media/primeicons.ttf": "/react-whatsapp-analyzer/static/media/primeicons.a5c2a53d1ff7a9ff5933.ttf",
+    "static/media/primeicons.woff2": "/react-whatsapp-analyzer/static/media/primeicons.024b32cc7bf399b1a847.woff2",
+    "index.html": "/react-whatsapp-analyzer/index.html",
+    "main.116f6508.css.map": "/react-whatsapp-analyzer/static/css/main.116f6508.css.map",
+    "main.b96b2f19.js.map": "/react-whatsapp-analyzer/static/js/main.b96b2f19.js.map",
+    "453.c507044e.chunk.js.map": "/react-whatsapp-analyzer/static/js/453.c507044e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.116f6508.css",
+    "static/js/main.b96b2f19.js"
+  ]
+}
