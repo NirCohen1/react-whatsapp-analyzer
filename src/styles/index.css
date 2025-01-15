@@ -18,3 +18,38 @@ body {
   border-radius: 10px;
   margin-bottom: 1rem;
 }
+
+
+table, th, td {
+  border:1px solid black;
+}
+
+.hide{
+  display: none;
+}
+
+
+#results {
+  font-family: var(--font-family);
+  font-weight: normal;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#results td, #results th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#results tr:nth-child(even){background-color: #f2f2f2;}
+
+#results tr:hover {background-color: #ddd;}
+
+#results th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: white ;
+  color: var(--text-color);
+  
+}

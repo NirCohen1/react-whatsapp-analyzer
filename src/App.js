@@ -8,13 +8,14 @@ import './styles/index.css';
 import './styles/flags.css';
 
 
-import TemplateDemo from './FileUploader';
+
+import FileUploader from './components/FileUploader';
 
 function App() {
   return (
     <div className="App">
       <PrimeReactProvider>
-      <TemplateDemo />
+      <FileUploader />
       </PrimeReactProvider>
       
     </div>
